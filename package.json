@@ -8,8 +8,33 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "9.5.2",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/styles": "^4.10.0",
+    "@monaco-editor/react": "^3.6.2",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "axios": "^0.20.0",
+    "clipboard": "^2.0.6",
+    "codemirror": "^5.57.0",
+    "highlight.js": "^10.1.2",
+    "marked": "^1.1.1",
+    "next": "^9.5.2",
+    "next-compose-plugins": "^2.2.0",
+    "next-http-proxy-middleware": "^1.0.4",
+    "nextjs-progressbar": "^0.0.5",
+    "node-sass": "^4.14.1",
+    "prop-types": "^15.7.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-codemirror": "^1.0.0",
+    "react-codemirror2": "^7.2.1",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-dom": "16.13.1",
+    "react-highlight.js": "^1.0.7",
+    "react-markdown": "^4.3.1",
+    "react-monaco-editor": "^0.39.1",
+    "react-syntax-highlighter": "^13.5.1",
+    "sass": "^1.26.10",
+    "styled-jsx": "^3.3.0"
   }
 }
