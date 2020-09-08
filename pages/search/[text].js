@@ -17,7 +17,6 @@ class SearchUser extends Component {
         const router = this.props.router
 
         const data = (await Axios.get('/api/search/' + encodeURI(router.query.text))).data
-        data.pop()
         this.setState({
             results: data,
             isLoading: false
