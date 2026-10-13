@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^4.11.0",
-    "@material-ui/icons": "^4.9.1",
+    "@mui/icons-material": "^5.0.0",
     "@material-ui/styles": "^4.10.0",
     "@monaco-editor/react": "^3.6.2",
     "@zeit/next-css": "^1.0.1",
